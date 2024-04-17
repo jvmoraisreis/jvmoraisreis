@@ -1,9 +1,3 @@
-### Olá, eu sou o João Victor Morais 👋
-</div>
-  
-  ##
- 
-<div> 
 
 <div align="center">
   <a href="https://github.com/jvmoraisreis">
@@ -20,14 +14,10 @@
   <img align="center" alt="João-Cpp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"> 
 </div>
 
-</div>
+<div>
   
   ##
  
-<div> 
+</div> 
 
-- 🔭 Atualmente sou aluno no sexto período de Sistemas de Informação, pela Universidade Federal de Lavras 
-- 🌱 Estudando Node.js e React
-- 📫 Contate-me no email: jvmoraisreis@outlook.com
 
-![Snake animation](https://github.com/jvmoraisreis/jvmoraisreis/blob/output/github-contribution-grid-snake.svg)
